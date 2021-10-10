@@ -17,6 +17,24 @@ function About() {
       <section className="ftco-section">
         <div className="container">
           <div className="row">
+            <div className="col-lg-12 d-flex ftco-animate">
+              <div className="coach align-items-stretch">
+                <div className="text bg-white p-4 ftco-animate">
+                  <h3 className="h3">What is Arrive Mindful?</h3>
+                  <p>
+                    Arrive Mindful started with the intention of empowering the
+                    disempowered to manifest a life worth living. Through
+                    mindfulness practices like yoga and meditation, we hope to
+                    encourage a shedding of old stories to step more fully into
+                    a life with purpose. We must first become conscious of
+                    patterns that reinforce old wounds before we can hope to
+                    shift into a more meaningful and joy-filled existence.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="row">
             <div className="col-lg-4 d-flex ftco-animate"></div>
             <div className="col-lg-4 d-flex ftco-animate">
               <div className="coach align-items-stretch">

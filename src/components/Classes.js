@@ -17,25 +17,35 @@ function Classes() {
       title: 'Introductory Yoga',
       description:
         'Yoga is for everyone. We love to empower people of all abilities to explore the spirit-mind-body connection through practice that makes the most sense for them. Book a beginners class or private session with us to start your journey towards a more mindful and fulfilling life!',
-      backgroundImage: 'classes-3.jpg',
+      backgroundImage:
+        'https://images.unsplash.com/photo-1540206063137-4a88ca974d1a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2550&q=80',
     },
     {
       title: 'Moderate Yoga',
       description:
         'This class will help those with some yoga experience deepen their practice in a supportive environment. We will guide you to explore new postures, breath techniques, and more prolonged meditation to encourage growth and expansion.',
-      backgroundImage: 'classes-6.jpg',
+      backgroundImage:
+        'https://images.unsplash.com/photo-1518310952931-b1de897abd40?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2551&q=80',
     },
     {
       title: 'Vigorous Flow',
       description:
         'This class is best for yogis who have been practicing for some time and want to challenge themselves to build strength, power, and endurance. All of our classes emphasize consistent attention to mindfulness, breath awareness, and integration throughout as yoga is the practice of uniting body, breath, mind, and spirit.',
-      backgroundImage: 'classes-7.jpg',
+      backgroundImage: 'images/classes-7.jpg',
     },
     {
       title: 'Meditation',
       description:
         'All yoga classes place a strong emphasis on mindfulness with meditations at both the open and close of each class. However, for those who would like to deepen their meditation practice, inquire about our guided meditation sessions. We will meet you wherever you are in your practice. We want to make meditation accessible to all and a joy to explore.',
-      backgroundImage: 'classes-4.jpg',
+      backgroundImage:
+        'https://images.unsplash.com/photo-1510034141778-a4d065653d92?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2550&q=80',
+    },
+    {
+      title: 'Inclusive Yoga',
+      description:
+        'This class is designed to accommodate the non-traditional yogi. We offer a rotation of classes aimed to celebrate a variety of different abilities including yoga for blind or low vision individuals, persons in a wheelchair, silent yoga for the deaf and yoga for people of all ages.',
+      backgroundImage:
+        'https://images.unsplash.com/photo-1534030819-e584013b0531?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2468&q=80',
     },
   ]);
   return (
@@ -61,7 +71,7 @@ function Classes() {
                     style={{
                       width: '100%',
                       height: '100%',
-                      backgroundImage: `url(images/${classItem.backgroundImage})`,
+                      backgroundImage: `url(${classItem.backgroundImage})`,
                     }}
                   >
                     <div

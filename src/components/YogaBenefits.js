@@ -4,7 +4,7 @@ function YogaBenefits() {
       <div className="container">
         <div className="row justify-content-center mb-5 pb-3">
           <div className="col-md-12 heading-section ftco-animate text-center">
-            <h2 className="mb-1">Benefits of Yoga</h2>
+            <h2 className="mb-1">8 Limbs of Yoga</h2>
           </div>
         </div>
         <div className="row">
@@ -14,10 +14,11 @@ function YogaBenefits() {
                 <span className="flaticon-meditation"></span>
               </div>
               <div className="text text-md-right pl-4 pl-md-0 pr-md-4">
-                <h3>Balances Body &amp; Mind</h3>
+                <h3>Yama</h3>
+                <h4>External Observances</h4>
                 <p>
-                  A small river named Duden flows by their place and supplies it
-                  with the necessary regelialia.
+                  Practicing kindness, compassion, non-violence, truthfulness,
+                  non-stealing, non-attachment, and simple living.
                 </p>
               </div>
             </div>
@@ -26,10 +27,11 @@ function YogaBenefits() {
                 <span className="flaticon-meditation"></span>
               </div>
               <div className="text text-md-right pl-4 pl-md-0 pr-md-4">
-                <h3>Healthy Daily Life</h3>
+                <h3>Niyama</h3>
+                <h4>Internal Observances</h4>
                 <p>
-                  A small river named Duden flows by their place and supplies it
-                  with the necessary regelialia.
+                  Practicing purity, contentment, gratitude, self-discipline,
+                  self-study, insight, and graceful surrender.
                 </p>
               </div>
             </div>
@@ -38,10 +40,11 @@ function YogaBenefits() {
                 <span className="flaticon-meditation"></span>
               </div>
               <div className="text text-md-right pl-4 pl-md-0 pr-md-4">
-                <h3>Improves your flexibility</h3>
+                <h3>Asana</h3>
+                <h4>Seat or Posture</h4>
                 <p>
-                  A small river named Duden flows by their place and supplies it
-                  with the necessary regelialia.
+                  Physical practice or mindfulness in motion to prepare the body
+                  to sit comfortably in meditation.
                 </p>
               </div>
             </div>
@@ -50,10 +53,11 @@ function YogaBenefits() {
                 <span className="flaticon-meditation"></span>
               </div>
               <div className="text text-md-right pl-4 pl-md-0 pr-md-4">
-                <h3>Protects your spine</h3>
+                <h3>Pranayama</h3>
+                <h4>Breath Practices</h4>
                 <p>
-                  A small river named Duden flows by their place and supplies it
-                  with the necessary regelialia.
+                  Gaining greater control of the breath to relax the body, open
+                  the heart and mind, and receive wisdom.
                 </p>
               </div>
             </div>
@@ -75,10 +79,11 @@ function YogaBenefits() {
                 <span className="flaticon-meditation"></span>
               </div>
               <div className="text text-left pl-4">
-                <h3>Betters your bone health</h3>
+                <h3>Pratyahara</h3>
+                <h4>Withdrawal from Senses</h4>
                 <p>
-                  A small river named Duden flows by their place and supplies it
-                  with the necessary regelialia.
+                  Relinquishing attachment to physical sensation and turning
+                  awareness inward.
                 </p>
               </div>
             </div>
@@ -87,10 +92,11 @@ function YogaBenefits() {
                 <span className="flaticon-meditation"></span>
               </div>
               <div className="text text-left pl-4">
-                <h3>Increases your blood flow</h3>
+                <h3>Dharana</h3>
+                <h4>Concentration</h4>
                 <p>
-                  A small river named Duden flows by their place and supplies it
-                  with the necessary regelialia.
+                  Practicing focused attention on a single object of meditation
+                  – breath, mantra, or a flame.
                 </p>
               </div>
             </div>
@@ -99,10 +105,11 @@ function YogaBenefits() {
                 <span className="flaticon-meditation"></span>
               </div>
               <div className="text text-left pl-4">
-                <h3>Keep a practice journal</h3>
+                <h3>Dhyana</h3>
+                <h4>Meditation</h4>
                 <p>
-                  A small river named Duden flows by their place and supplies it
-                  with the necessary regelialia.
+                  The state of pure awareness that arises from the previous six
+                  practices.
                 </p>
               </div>
             </div>
@@ -111,10 +118,10 @@ function YogaBenefits() {
                 <span className="flaticon-meditation"></span>
               </div>
               <div className="text text-left pl-4">
-                <h3>Builds muscle strength</h3>
+                <h3>Samadhi</h3>
+                <h4>Awakening</h4>
                 <p>
-                  A small river named Duden flows by their place and supplies it
-                  with the necessary regelialia.
+                  The state of complete integration, union, equanimity, and ultimate release from suffering.
                 </p>
               </div>
             </div>
