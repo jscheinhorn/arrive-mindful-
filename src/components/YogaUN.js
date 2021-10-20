@@ -20,11 +20,13 @@ function YogaUN() {
                 <h1 className="display-4">Arrive Mindful’s Global Vision</h1>
                 <p>
                   At Arrive Mindful we believe the benefit of dedicated
-                  mindfulness practice extends beyond the individual. In our
-                  “Yoga Philosophy” (Insert link to yoga philosophy tab) section
-                  you can find information on the holistic reach of yoga into
-                  every aspect of life and being. In our “Mindfulness and Mental
-                  Health” (insert link to mindfulness and mental health section)
+                  mindfulness practice extends beyond the individual. In our{' '}
+                  <a href="/education/yoga-philosophy">“Yoga Philosophy” </a>{' '}
+                  section you can find information on the holistic reach of yoga
+                  into every aspect of life and being. In our{' '}
+                  <a href="/education/mental-health">
+                    “Mindfulness and Mental Health”
+                  </a>{' '}
                   section, you can find information about how mindfulness has
                   been found to promote various aspects of psychological
                   well-being like psychosocial resilience and posttraumatic

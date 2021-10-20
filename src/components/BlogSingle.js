@@ -59,11 +59,8 @@ function BlogSingle() {
                 can start with only five minutes a day and increase that time as
                 you see fit. Every little bit counts. If you have time to check
                 your social media account, or binge watch the latest Netflix
-                craze, you have time to devote to your mental well-being. Here
-                is a great five-minute mindfulness meditation that you can
-                listen to to get started.
+                craze, you have time to devote to your mental well-being.
               </p>
-              <p>INCLUDE LINK HERE </p>
               <p>
                 <img
                   src="https://images.unsplash.com/photo-1616628188859-7a11abb6fcc9?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2100&q=80"

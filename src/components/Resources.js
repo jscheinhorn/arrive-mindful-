@@ -24,42 +24,66 @@ function Resources(props) {
                 <h2 className="mb-1">Audible Books</h2>
                 <ul>
                   <li>
-                    <a href="https://www.audible.com/pd/Surviving-Death-Audiobook/B06WP77G8D?asin=B06WP77G8D&source_code=ASSORAP0511160006">
-                      Surviving Death
+                    <a
+                      target="_blank"
+                      href="https://www.audible.com/pd/Surviving-Death-Audiobook/B06WP77G8D?asin=B06WP77G8D&source_code=ASSORAP0511160006"
+                    >
+                      Surviving Death by Leslie Kean
                     </a>
                   </li>
                   <li>
-                    <a href="https://www.audible.com/pd/Yamas-Niyamas-Audiobook/B079K412PS?asin=B079K412PS&source_code=ASSORAP0511160006">
-                      Yamas and Niyamas
+                    <a
+                      target="_blank"
+                      href="https://www.audible.com/pd/Yamas-Niyamas-Audiobook/B079K412PS?asin=B079K412PS&source_code=ASSORAP0511160006"
+                    >
+                      Yamas and Niyamas by Deborah Adele
                     </a>
                   </li>
                   <li>
-                    <a href="https://www.audible.com/pd/Night-Bloomers-Audiobook/1624617476?asin=1624617476&source_code=ASSORAP0511160006">
-                      Night Bloomers
+                    <a
+                      target="_blank"
+                      href="https://www.audible.com/pd/Night-Bloomers-Audiobook/1624617476?asin=1624617476&source_code=ASSORAP0511160006"
+                    >
+                      Night Bloomers by Michelle Pearce PhD
                     </a>
                   </li>
                   <li>
-                    <a href="https://www.audible.com/pd/Learned-Hopefulness-Audiobook/1705297064?asin=1705297064&source_code=ASSORAP0511160006">
-                      Learned Hopefulness
+                    <a
+                      target="_blank"
+                      href="https://www.audible.com/pd/Learned-Hopefulness-Audiobook/1705297064?asin=1705297064&source_code=ASSORAP0511160006"
+                    >
+                      Learned Hopefulness by Dan Tomasulo PhD
                     </a>
                   </li>
                   <li>
-                    <a href="https://www.audible.com/pd/Manifest-Your-Destiny-Audiobook/B002UZMSR6?asin=B002UZMSR6&source_code=ASSORAP0511160006">
-                      Manifest Your Destiny
+                    <a
+                      target="_blank"
+                      href="https://www.audible.com/pd/Manifest-Your-Destiny-Audiobook/B002UZMSR6?asin=B002UZMSR6&source_code=ASSORAP0511160006"
+                    >
+                      Manifest Your Destiny by Dr. Wayne W. Dyer
                     </a>
                   </li>
                   <li>
-                    <a href="https://www.audible.com/pd?asin=B002V1M680&source_code=ASSORAP0511160006">
+                    <a
+                      target="_blank" 
+                      href="https://www.audible.com/pd?asin=B002V1M680&source_code=ASSORAP0511160006"
+                    >
                       The Bhagavad Gita, translated by Barbara Stoler-Miller
                     </a>
                   </li>
                   <li>
-                    <a href="https://www.audible.com/pd?asin=B002V01ATC&source_code=ASSORAP0511160006">
+                    <a
+                      target="_blank"
+                      href="https://www.audible.com/pd?asin=B002V01ATC&source_code=ASSORAP0511160006"
+                    >
                       The Ultimate Dimension by Thich Nhat Hanh
                     </a>
                   </li>
                   <li>
-                    <a href="https://www.audible.com/pd?asin=B004GMOPFO&source_code=ASSORAP0511160006">
+                    <a
+                      target="_blank"
+                      href="https://www.audible.com/pd?asin=B004GMOPFO&source_code=ASSORAP0511160006"
+                    >
                       The Art of Possibility by Rosamund Stone Zander, Benjamin
                       Zander
                     </a>
